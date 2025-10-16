@@ -1,16 +1,16 @@
 # Hello IIT Madras Web App
 
-This is a minimal web application that displays a greeting message and allows you to change the background color by clicking a button.
+This is a simple web application that displays the message "Hello IIT Madras" and changes the background color upon clicking a button.
 
 ## Files
-- **index.html**: The main HTML file that structures the webpage.
-- **app.js**: The JavaScript file that handles the button click event and changes the background color.
-- **style.css**: The CSS file that provides basic styling for the webpage.
+- `index.html`: The main HTML file that contains the structure of the webpage.
+- `app.js`: JavaScript file that adds interactivity to the webpage by changing the background color.
+- `style.css`: Stylesheet that sets the basic styling for the webpage.
 
 ## How It Works
-1. Open `index.html` in a web browser.
+1. Open the `index.html` file in a web browser.
 2. You will see the message "Hello IIT Madras" and a button below it.
-3. Click the "Change Background Color" button to change the webpage's background to a random color.
+3. Click the button to change the background color of the page randomly.
 
-## Installation
-No installation is required. Simply download the files and open `index.html` in your browser.
+## Usage
+Simply open the `index.html` file in your preferred web browser to run the application.
