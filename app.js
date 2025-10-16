@@ -1,4 +1,4 @@
-document.getElementById('colorButton').addEventListener('click', function() {
+document.getElementById('changeColorBtn').addEventListener('click', function() {
     document.body.style.backgroundColor = getRandomColor();
 });
 
